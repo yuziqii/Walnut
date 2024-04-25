@@ -24,3 +24,9 @@
 [submodule "Walnut-Modules/Walnut-Networking"]
 	path = Walnut-Modules/Walnut-Networking
 	url = https://github.com/StudioCherno/Walnut-Networking
+[submodule "vendor/vendor/rapidjson"]
+	path = vendor/vendor/rapidjson
+	url = https://github.com/Tencent/rapidjson.git
+[submodule "vendor/rapidjson"]
+	path = vendor/rapidjson
+	url = https://github.com/Tencent/rapidjson.git
